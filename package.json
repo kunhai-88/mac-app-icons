@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "fof": "electron-icon-maker --input=./FOF.png --output=./dist    "
+    "fof": "electron-icon-maker --input=./FOF.png --output=./dist",
+    "ccb": "electron-icon-maker --input=./ccb.png --output=./dist"
   },
   "repository": {
     "type": "git",
