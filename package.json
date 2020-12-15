@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "fof": "electron-icon-maker --input=./FOF.png --output=./dist",
-    "ccb": "electron-icon-maker --input=./ccb.png --output=./dist"
+    "ccb": "electron-icon-maker --input=./ccb.png --output=./dist",
+    "hsbc": "electron-icon-maker --input=./hsbc.png --output=./hsbc"
   },
   "repository": {
     "type": "git",
